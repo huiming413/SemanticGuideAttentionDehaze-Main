@@ -18,7 +18,4 @@ python visual_and_test.py
 ### Semantic Feature Visual
 ```
 python semantic_feature_visual.py
-```# SemanticGuideAttentionDehaze-Main
-# SemanticGuideAttentionDehaze-Main
-# SemanticGuideAttentionDehaze-Main
-# SemanticGuideAttentionDehaze-Main
+```
